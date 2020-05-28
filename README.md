@@ -9,7 +9,7 @@ The design wasn't proven yet but as said is created from the original schematics
 
 This is a four layer PCB.
 
-![Board Image](/pix/img.png)
+![Board Image](/pix/image.png)
 
 ### License
 The "PIV FlickerFixer attachment" documentation, including the design itself, is copyright © MastaTabs (Tobias Seiler) 2020.
