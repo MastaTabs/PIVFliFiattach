@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/home/masta/Desktop/projects/PIV_FliFi_Slot/PIV_FliFi_Slot.sch</source>
-    <date>Do 28 Mai 2020 21:45:40 CEST</date>
+    <date>Sa 30 Mai 2020 18:24:50 CEST</date>
     <tool>Eeschema 5.1.5</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -22,7 +22,7 @@
     <comp ref="IC30">
       <value>74F32</value>
       <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74F32</datasheet>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
       <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5ECA9C55</tstamp>
@@ -30,7 +30,7 @@
     <comp ref="IC26">
       <value>74F378</value>
       <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74F378</datasheet>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS378</datasheet>
       <libsource lib="74xx" part="74LS378" description="6-bit Register"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5ECB087C</tstamp>
@@ -38,7 +38,7 @@
     <comp ref="IC29">
       <value>74F378</value>
       <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74F378</datasheet>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS378</datasheet>
       <libsource lib="74xx" part="74LS378" description="6-bit Register"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5ECB12A5</tstamp>
@@ -46,7 +46,7 @@
     <comp ref="IC27">
       <value>74F378</value>
       <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74F378</datasheet>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS378</datasheet>
       <libsource lib="74xx" part="74LS378" description="6-bit Register"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5ECB1EDA</tstamp>
@@ -54,7 +54,7 @@
     <comp ref="IC28">
       <value>74F378</value>
       <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74F378</datasheet>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS378</datasheet>
       <libsource lib="74xx" part="74LS378" description="6-bit Register"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5ECB2C6B</tstamp>

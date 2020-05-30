@@ -20,7 +20,7 @@ P 6550 5800
 F 0 "IC30" H 6550 6125 50  0000 C CNN
 F 1 "74F32" H 6550 6034 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm" H 6550 5800 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F32" H 6550 5800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 6550 5800 50  0001 C CNN
 	1    6550 5800
 	1    0    0    -1  
 $EndComp
@@ -31,7 +31,7 @@ P 6550 6350
 F 0 "IC30" H 6550 6675 50  0000 C CNN
 F 1 "74F32" H 6550 6584 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm" H 6550 6350 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F32" H 6550 6350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 6550 6350 50  0001 C CNN
 	2    6550 6350
 	1    0    0    -1  
 $EndComp
@@ -42,7 +42,7 @@ P 6550 6900
 F 0 "IC30" H 6550 7225 50  0000 C CNN
 F 1 "74F32" H 6550 7134 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm" H 6550 6900 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F32" H 6550 6900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 6550 6900 50  0001 C CNN
 	3    6550 6900
 	1    0    0    -1  
 $EndComp
@@ -53,7 +53,7 @@ P 6550 7500
 F 0 "IC30" H 6550 7825 50  0000 C CNN
 F 1 "74F32" H 6550 7734 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm" H 6550 7500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F32" H 6550 7500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 6550 7500 50  0001 C CNN
 	4    6550 7500
 	1    0    0    -1  
 $EndComp
@@ -64,7 +64,7 @@ P 7100 8950
 F 0 "IC30" H 7330 8996 50  0000 L CNN
 F 1 "74F32" H 7330 8905 50  0000 L CNN
 F 2 "Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm" H 7100 8950 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F32" H 7100 8950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 7100 8950 50  0001 C CNN
 	5    7100 8950
 	1    0    0    -1  
 $EndComp
@@ -75,7 +75,7 @@ P 3650 2600
 F 0 "IC26" H 3450 3150 50  0000 C CNN
 F 1 "74F378" H 3650 2400 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 3650 2600 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F378" H 3650 2600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS378" H 3650 2600 50  0001 C CNN
 	1    3650 2600
 	1    0    0    -1  
 $EndComp
@@ -86,7 +86,7 @@ P 3650 8150
 F 0 "IC29" H 3450 8700 50  0000 C CNN
 F 1 "74F378" H 3650 7950 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 3650 8150 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F378" H 3650 8150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS378" H 3650 8150 50  0001 C CNN
 	1    3650 8150
 	1    0    0    -1  
 $EndComp
@@ -97,7 +97,7 @@ P 3650 4450
 F 0 "IC27" H 3450 5000 50  0000 C CNN
 F 1 "74F378" H 3650 4250 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 3650 4450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F378" H 3650 4450 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS378" H 3650 4450 50  0001 C CNN
 	1    3650 4450
 	1    0    0    -1  
 $EndComp
@@ -108,7 +108,7 @@ P 3650 6300
 F 0 "IC28" H 3450 6850 50  0000 C CNN
 F 1 "74F378" H 3650 6100 50  0000 C CNN
 F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 3650 6300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74F378" H 3650 6300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS378" H 3650 6300 50  0001 C CNN
 	1    3650 6300
 	1    0    0    -1  
 $EndComp
