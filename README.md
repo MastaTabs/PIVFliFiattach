@@ -2,10 +2,10 @@
 
 This is a recreation from original data of the small snap off PCB of the PicassoIV (PIV)
 Amiga RTG graphics card.
-I have created this because often cards seem to be sold without this PCB and then the FlickerFixer/ScanDoubler
+I created this because often cards seem to be sold without this PCB and then the FlickerFixer/ScanDoubler
 of the card cannot be used.
 
-The design wasn't proven yet but as said is created from the original schematics and PCB layout.
+The design hasn't been proven yet but as said is created from the original schematics and PCB layout.
 
 This is a four layer PCB.
 
