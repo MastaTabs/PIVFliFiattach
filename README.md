@@ -5,8 +5,6 @@ Amiga RTG graphics card.
 I created this because often cards seem to be sold without this PCB and then the FlickerFixer/ScanDoubler
 of the card cannot be used.
 
-The design hasn't been proven yet but as said is created from the original schematics and PCB layout.
-
 This is a four layer PCB.
 
 ![Board Image](/pix/image.png)
